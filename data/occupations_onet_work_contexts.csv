@@ -1,0 +1,874 @@
+degree_of_automation_context,occupation,importance_of_being_exact_or_accurate_context,importance_of_repeating_same_tasks_context,structured_versus_unstructured_work_context
+0.7,Travel Agents,0.95,0.53,0.83
+0.68,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.76,0.67,0.53
+0.67,Medical and Clinical Laboratory Technologists,1.0,0.85,0.81
+0.66,Chemical Plant and System Operators,0.87,0.76,0.64
+0.66,Telephone Operators,0.93,0.97,0.27
+0.65,Air Traffic Controllers,0.96,0.92,0.73
+0.65,"Airline Pilots, Copilots, and Flight Engineers",0.96,0.74,0.66
+0.65,Reservation and Transportation Ticket Agents and Travel Clerks,0.92,0.98,0.42
+0.64,Biofuels Processing Technicians,0.85,0.72,0.77
+0.63,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.67,0.5,0.75
+0.62,"Claims Adjusters, Examiners, and Investigators",0.93,0.83,0.76
+0.61,Customs Brokers,0.96,0.83,0.63
+0.61,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.79,0.76,0.81
+0.6,Biofuels Production Managers,0.82,0.63,0.78
+0.6,Robotics Technicians,0.9,0.46,0.79
+0.59,Motion Picture Projectionists,0.83,0.4,0.64
+0.58,Computer Numerically Controlled Tool Operators,0.91,0.71,0.72
+0.58,Customs and Border Protection Officers,0.89,0.78,0.73
+0.58,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.88,0.69,0.7
+0.57,Biomass Plant Technicians,0.74,0.83,0.78
+0.57,Brokerage Clerks,0.93,0.88,0.78
+0.57,Laundry and Dry-Cleaning Workers,0.73,0.52,0.55
+0.57,Stationary Engineers and Boiler Operators,0.71,0.69,0.74
+0.56,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.8,0.67,0.53
+0.56,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.83,0.65,0.54
+0.56,"Insurance Appraisers, Auto Damage",0.85,0.7,0.86
+0.56,Insurance Claims and Policy Processing Clerks,0.88,0.87,0.77
+0.56,Photographic Process Workers and Processing Machine Operators,0.68,0.56,0.68
+0.55,Gas Plant Operators,0.78,0.57,0.82
+0.55,Loan Officers,0.88,0.61,0.85
+0.55,Medical and Health Services Managers,0.88,0.77,0.78
+0.55,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.9,0.64,0.55
+0.55,Ophthalmic Laboratory Technicians,0.82,0.79,0.83
+0.53,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0.76,0.58,0.65
+0.53,Medical and Clinical Laboratory Technicians,0.97,0.83,0.73
+0.53,Power Plant Operators,0.85,0.69,0.66
+0.52,Geothermal Technicians,0.66,0.68,0.72
+0.52,Prepress Technicians and Workers,0.91,0.68,0.71
+0.52,Refuse and Recyclable Material Collectors,0.85,0.72,0.83
+0.52,Telemarketers,0.7,0.65,0.61
+0.51,Accountants and Auditors,0.93,0.71,0.79
+0.51,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.93,0.63,0.64
+0.51,Machinists,0.9,0.72,0.72
+0.51,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.92,0.48,0.6
+0.51,New Accounts Clerks,0.92,0.86,0.62
+0.51,Nuclear Power Reactor Operators,0.98,0.77,0.51
+0.51,Payroll and Timekeeping Clerks,0.97,0.98,0.87
+0.51,Purchasing Managers,0.82,0.63,0.72
+0.51,Textile Bleaching and Dyeing Machine Operators and Tenders,0.69,0.45,0.56
+0.51,"Title Examiners, Abstractors, and Searchers",1.0,0.84,0.92
+0.5,Cooling and Freezing Equipment Operators and Tenders,0.77,0.69,0.74
+0.5,Credit Counselors,0.83,0.77,0.76
+0.5,Document Management Specialists,0.76,0.59,0.73
+0.5,Dredge Operators,0.52,0.35,0.61
+0.5,Water and Wastewater Treatment Plant and System Operators,0.83,0.73,0.91
+0.49,Bioinformatics Technicians,0.82,0.53,0.73
+0.49,"Buyers and Purchasing Agents, Farm Products",0.85,0.8,0.92
+0.49,"Credit Authorizers, Checkers, and Clerks",0.93,0.83,0.88
+0.49,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.76,0.64,0.63
+0.49,Human Resources Specialists,0.84,0.72,0.87
+0.49,Loan Interviewers and Clerks,0.93,0.83,0.87
+0.49,Logistics Analysts,0.79,0.75,0.77
+0.49,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.87,0.81,0.85
+0.48,Budget Analysts,0.91,0.77,0.75
+0.48,Computer Network Architects,0.76,0.35,0.77
+0.48,"Cutting and Slicing Machine Setters, Operators, and Tenders",0.88,0.71,0.65
+0.48,Database Administrators,0.75,0.55,0.63
+0.48,Geographic Information Systems Technologists and Technicians,0.92,0.75,0.73
+0.48,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.91,0.67,0.77
+0.48,Metal-Refining Furnace Operators and Tenders,0.77,0.71,0.63
+0.48,Radiation Therapists,0.97,0.92,0.71
+0.47,Bill and Account Collectors,0.76,0.83,0.59
+0.47,Bridge and Lock Tenders,0.74,0.63,0.71
+0.47,Chemical Equipment Operators and Tenders,0.82,0.72,0.71
+0.47,Food Cooking Machine Operators and Tenders,0.67,0.51,0.94
+0.47,Foundry Mold and Coremakers,0.73,0.38,0.45
+0.47,Freight Forwarders,0.86,0.73,0.86
+0.47,Gambling Cage Workers,0.87,0.79,0.52
+0.47,Insurance Underwriters,0.83,0.63,0.77
+0.47,Lodging Managers,0.79,0.79,0.92
+0.47,Machine Feeders and Offbearers,0.75,0.55,0.53
+0.47,"Meat, Poultry, and Fish Cutters and Trimmers",0.88,0.63,0.47
+0.47,Pharmacy Aides,0.87,0.7,0.74
+0.47,Receptionists and Information Clerks,0.81,0.84,0.74
+0.46,Adhesive Bonding Machine Operators and Tenders,0.72,0.66,0.58
+0.46,Chemical Engineers,0.82,0.36,0.79
+0.46,Computer Systems Analysts,0.87,0.79,0.78
+0.46,"Court, Municipal, and License Clerks",0.86,0.82,0.75
+0.46,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.62,0.51,0.52
+0.46,Customer Service Representatives,0.85,0.83,0.77
+0.46,Data Entry Keyers,0.97,0.95,0.81
+0.46,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.75,0.59,0.67
+0.46,Helpers--Roofers,0.74,0.41,0.45
+0.46,Logisticians,0.74,0.57,0.72
+0.46,Semiconductor Processing Technicians,0.81,0.7,0.55
+0.46,"Tax Examiners and Collectors, and Revenue Agents",0.9,0.88,0.71
+0.45,Animal Scientists,0.79,0.56,0.9
+0.45,Broadcast Announcers and Radio Disc Jockeys,0.87,0.56,0.85
+0.45,Compensation and Benefits Managers,0.86,0.42,0.87
+0.45,Dishwashers,0.62,0.5,0.73
+0.45,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",0.9,0.82,0.88
+0.45,Procurement Clerks,0.89,0.85,0.89
+0.44,Civil Engineering Technologists and Technicians,0.75,0.52,0.66
+0.44,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.85,0.51,0.71
+0.44,Dietetic Technicians,0.86,0.59,0.8
+0.44,Electrical and Electronics Drafters,0.89,0.73,0.7
+0.44,"Eligibility Interviewers, Government Programs",0.8,0.75,0.73
+0.44,Food Batchmakers,0.81,0.77,0.44
+0.44,Gambling and Sports Book Writers and Runners,0.84,0.82,0.56
+0.44,Gas Compressor and Gas Pumping Station Operators,0.79,0.69,0.83
+0.44,Geodetic Surveyors,0.94,0.84,0.7
+0.44,Insurance Sales Agents,0.93,0.7,0.78
+0.44,"Shipping, Receiving, and Inventory Clerks",0.86,0.84,0.84
+0.44,Surveyors,0.92,0.62,0.65
+0.44,Tax Preparers,0.93,0.82,0.79
+0.43,Computer Hardware Engineers,0.85,0.53,0.76
+0.43,Cytogenetic Technologists,0.98,0.93,0.62
+0.43,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.75,0.62,0.5
+0.43,Medical Transcriptionists,0.95,0.87,0.81
+0.43,"Mixing and Blending Machine Setters, Operators, and Tenders",0.86,0.72,0.72
+0.43,"Molders, Shapers, and Casters, Except Metal and Plastic",0.78,0.62,0.49
+0.43,Ophthalmic Medical Technicians,0.93,0.66,0.65
+0.43,Patient Representatives,0.89,0.88,0.62
+0.43,"Pourers and Casters, Metal",0.7,0.5,0.46
+0.43,Print Binding and Finishing Workers,0.83,0.65,0.62
+0.43,Real Estate Brokers,0.76,0.51,0.96
+0.43,Remote Sensing Scientists and Technologists,0.8,0.43,0.72
+0.43,Robotics Engineers,0.88,0.4,0.77
+0.43,"Switchboard Operators, Including Answering Service",0.87,0.74,0.74
+0.43,Web Administrators,0.76,0.64,0.84
+0.42,Biomass Power Plant Managers,0.83,0.73,0.85
+0.42,Broadcast Technicians,0.79,0.52,0.72
+0.42,Cartographers and Photogrammetrists,0.97,0.63,0.74
+0.42,Chief Executives,0.79,0.56,1.0
+0.42,Computer Systems Engineers/Architects,0.8,0.55,0.79
+0.42,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.61,0.32,0.65
+0.42,"Geological Technicians, Except Hydrologic Technicians",0.88,0.68,0.76
+0.42,Library Technicians,0.74,0.79,0.82
+0.42,Nanotechnology Engineering Technologists and Technicians,0.88,0.47,0.75
+0.42,Online Merchants,0.79,0.61,0.84
+0.42,Orderlies,0.88,0.78,0.7
+0.42,Power Distributors and Dispatchers,0.88,0.82,0.73
+0.42,Probation Officers and Correctional Treatment Specialists,0.84,0.75,0.75
+0.42,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.85,0.68,0.69
+0.41,Baristas,0.67,0.5,0.61
+0.41,Biochemists and Biophysicists,0.94,0.63,0.84
+0.41,Boilermakers,0.84,0.61,0.72
+0.41,Computer User Support Specialists,0.87,0.59,0.84
+0.41,Conveyor Operators and Tenders,0.86,0.5,0.76
+0.41,Helpers--Production Workers,0.72,0.55,0.6
+0.41,"Hotel, Motel, and Resort Desk Clerks",0.79,0.72,0.75
+0.41,"Interviewers, Except Eligibility and Loan",0.92,0.91,0.69
+0.41,Magnetic Resonance Imaging Technologists,0.92,0.78,0.67
+0.41,"Meter Readers, Utilities",0.83,0.73,0.64
+0.41,Order Clerks,0.8,0.81,0.82
+0.41,Pharmacists,0.98,0.88,0.84
+0.41,Postmasters and Mail Superintendents,0.79,0.68,0.72
+0.41,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.86,0.64,0.85
+0.41,Radiologic Technologists and Technicians,0.9,0.66,0.74
+0.41,"Securities, Commodities, and Financial Services Sales Agents",0.9,0.61,0.85
+0.41,Statistical Assistants,0.87,0.61,0.74
+0.41,Transportation Security Screeners,0.83,0.68,0.41
+0.4,Airfield Operations Specialists,0.92,0.86,0.91
+0.4,Database Architects,0.85,0.68,0.76
+0.4,Endoscopy Technicians,0.9,0.75,0.67
+0.4,"Family and Consumer Sciences Teachers, Postsecondary",0.72,0.58,0.9
+0.4,Hoist and Winch Operators,0.95,0.59,0.89
+0.4,"Maintenance Workers, Machinery",0.78,0.54,0.68
+0.4,Network and Computer Systems Administrators,0.75,0.58,0.79
+0.4,Parking Attendants,0.74,0.54,0.6
+0.4,Printing Press Operators,0.93,0.65,0.76
+0.4,"Production, Planning, and Expediting Clerks",0.86,0.69,0.8
+0.4,Segmental Pavers,0.69,0.56,0.68
+0.4,Surveying and Mapping Technicians,0.9,0.71,0.72
+0.4,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.66,0.55,0.44
+0.4,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.72,0.59,0.48
+0.4,Travel Guides,0.68,0.39,0.84
+0.4,Treasurers and Controllers,0.91,0.67,0.84
+0.39,Aircraft Cargo Handling Supervisors,0.89,0.72,0.87
+0.39,Aviation Inspectors,0.87,0.84,0.85
+0.39,Computer and Information Systems Managers,0.76,0.72,0.94
+0.39,Computer Numerically Controlled Tool Programmers,0.94,0.61,0.73
+0.39,Financial Managers,0.92,0.68,0.8
+0.39,Gem and Diamond Workers,0.96,0.88,0.59
+0.39,"Human Resources Assistants, Except Payroll and Timekeeping",0.93,0.84,0.81
+0.39,Hydroelectric Plant Technicians,0.86,0.8,0.68
+0.39,Manufacturing Engineers,0.8,0.39,0.74
+0.39,Packaging and Filling Machine Operators and Tenders,0.85,0.74,0.65
+0.39,"Paving, Surfacing, and Tamping Equipment Operators",0.62,0.49,0.7
+0.39,Photonics Technicians,0.87,0.54,0.64
+0.39,Postal Service Clerks,0.82,0.74,0.48
+0.39,"Pressers, Textile, Garment, and Related Materials",0.77,0.46,0.74
+0.39,Software Quality Assurance Analysts and Testers,0.84,0.58,0.7
+0.39,"Textile Cutting Machine Setters, Operators, and Tenders",0.84,0.57,0.34
+0.39,Traffic Technicians,0.85,0.71,0.66
+0.38,Actuaries,0.88,0.52,0.73
+0.38,Bakers,0.8,0.52,0.81
+0.38,Chemical Technicians,0.97,0.66,0.53
+0.38,Clinical Data Managers,0.86,0.7,0.78
+0.38,Compliance Officers,0.87,0.74,0.58
+0.38,Cytotechnologists,0.92,0.88,0.64
+0.38,Fish and Game Wardens,0.79,0.46,0.89
+0.38,Health Informatics Specialists,0.82,0.81,0.81
+0.38,Hydroelectric Production Managers,0.77,0.65,0.87
+0.38,Ophthalmic Medical Technologists,0.83,0.55,0.64
+0.38,Parking Enforcement Workers,0.75,0.61,0.62
+0.38,"Sawing Machine Setters, Operators, and Tenders, Wood",0.9,0.46,0.76
+0.38,Supply Chain Managers,0.75,0.43,0.8
+0.38,"Transportation, Storage, and Distribution Managers",0.77,0.56,0.75
+0.37,Acute Care Nurses,0.96,0.64,0.83
+0.37,Architectural and Civil Drafters,0.91,0.65,0.64
+0.37,Cement Masons and Concrete Finishers,0.86,0.52,0.65
+0.37,Chemists,0.9,0.68,0.77
+0.37,"Computer, Automated Teller, and Office Machine Repairers",0.75,0.66,0.86
+0.37,Food Preparation Workers,0.8,0.67,0.53
+0.37,"Fraud Examiners, Investigators and Analysts",0.91,0.7,0.79
+0.37,Geothermal Production Managers,0.82,0.63,0.94
+0.37,"Grinding and Polishing Workers, Hand",0.76,0.54,0.61
+0.37,Investment Fund Managers,0.81,0.42,0.88
+0.37,Landscaping and Groundskeeping Workers,0.55,0.32,0.54
+0.37,"Maintenance and Repair Workers, General",0.74,0.52,0.84
+0.37,Nuclear Medicine Technologists,0.92,0.62,0.83
+0.37,Precision Agriculture Technicians,0.7,0.42,0.7
+0.37,Survey Researchers,0.87,0.46,0.74
+0.36,Butchers and Meat Cutters,0.73,0.5,0.63
+0.36,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.55,0.52,0.6
+0.36,Correspondence Clerks,0.85,0.82,0.82
+0.36,"Dispatchers, Except Police, Fire, and Ambulance",0.9,0.88,0.82
+0.36,Food Service Managers,0.82,0.74,0.79
+0.36,"Glass Blowers, Molders, Benders, and Finishers",0.84,0.5,0.71
+0.36,Intelligence Analysts,0.91,0.69,0.81
+0.36,Logistics Engineers,0.79,0.58,0.76
+0.36,Media Programming Directors,0.82,0.56,0.89
+0.36,Microbiologists,0.97,0.71,0.65
+0.36,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.79,0.62,0.71
+0.36,"Office Machine Operators, Except Computer",0.69,0.55,0.57
+0.36,Pharmacy Technicians,1.0,0.85,0.63
+0.36,Postal Service Mail Carriers,0.88,0.82,0.42
+0.36,Radiologists,1.0,0.8,0.76
+0.36,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.69,0.61,0.9
+0.36,Tellers,0.95,0.93,0.69
+0.36,Wind Energy Operations Managers,0.72,0.52,0.9
+0.35,Agricultural Engineers,0.78,0.47,0.81
+0.35,Billing and Posting Clerks,0.9,0.91,0.78
+0.35,Business Continuity Planners,0.65,0.38,0.74
+0.35,Credit Analysts,0.88,0.78,0.8
+0.35,Data Warehousing Specialists,0.86,0.6,0.73
+0.35,Fence Erectors,0.77,0.61,0.88
+0.35,Loss Prevention Managers,0.73,0.5,0.79
+0.35,Nanosystems Engineers,0.81,0.36,0.79
+0.35,Personal Financial Advisors,0.82,0.52,0.82
+0.35,Police Identification and Records Officers,0.97,0.8,0.92
+0.35,Proofreaders and Copy Markers,0.97,0.92,0.56
+0.35,Registered Nurses,0.86,0.74,0.75
+0.35,Respiratory Therapists,0.91,0.66,0.74
+0.35,Stockers and Order Fillers,0.81,0.69,0.64
+0.34,Agricultural Inspectors,0.91,0.73,0.74
+0.34,Anesthesiologists,0.96,0.7,0.86
+0.34,Automotive Engineering Technicians,0.85,0.58,0.58
+0.34,"Bookkeeping, Accounting, and Auditing Clerks",0.92,0.91,0.7
+0.34,Couriers and Messengers,0.79,0.62,0.79
+0.34,Court Reporters and Simultaneous Captioners,0.99,0.71,0.85
+0.34,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.85,0.57,0.83
+0.34,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.94,0.8,0.67
+0.34,Equal Opportunity Representatives and Officers,0.83,0.5,0.89
+0.34,"Farmers, Ranchers, and Other Agricultural Managers",0.62,0.52,0.88
+0.34,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.75,0.49,0.83
+0.34,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.63,0.55,0.68
+0.34,Market Research Analysts and Marketing Specialists,0.86,0.49,0.82
+0.34,"Paper Goods Machine Setters, Operators, and Tenders",0.78,0.61,0.54
+0.34,Public Safety Telecommunicators,0.96,0.9,0.68
+0.34,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.88,0.79,0.63
+0.33,Appraisers and Assessors of Real Estate,0.87,0.68,0.74
+0.33,Atmospheric and Space Scientists,0.81,0.46,0.74
+0.33,Civil Engineers,0.85,0.55,0.75
+0.33,Computer and Information Research Scientists,0.74,0.31,0.75
+0.33,Family Medicine Physicians,0.94,0.44,0.87
+0.33,Financial Examiners,0.75,0.43,0.65
+0.33,First-Line Supervisors of Office and Administrative Support Workers,0.81,0.52,0.85
+0.33,First-Line Supervisors of Production and Operating Workers,0.81,0.59,0.8
+0.33,Flight Attendants,0.79,0.7,0.73
+0.33,Forest and Conservation Technicians,0.75,0.65,0.74
+0.33,"Graders and Sorters, Agricultural Products",0.64,0.26,0.41
+0.33,"Loading and Moving Machine Operators, Underground Mining",0.59,0.35,0.74
+0.33,Non-Destructive Testing Specialists,0.86,0.66,0.65
+0.33,Nuclear Technicians,0.95,0.83,0.58
+0.33,Optometrists,0.94,0.74,0.85
+0.33,Phlebotomists,0.95,0.81,0.68
+0.33,"Roustabouts, Oil and Gas",0.8,0.68,0.68
+0.33,Sheet Metal Workers,0.84,0.61,0.65
+0.33,"Stone Cutters and Carvers, Manufacturing",0.85,0.58,0.73
+0.33,Word Processors and Typists,0.92,0.91,0.82
+0.32,"Bus Drivers, Transit and Intercity",0.71,0.52,0.45
+0.32,Commercial Pilots,0.9,0.69,0.85
+0.32,Computer Network Support Specialists,0.86,0.68,0.83
+0.32,Computer Programmers,0.81,0.54,0.6
+0.32,"Cooks, Short Order",0.79,0.58,0.74
+0.32,Cost Estimators,0.88,0.63,0.72
+0.32,Electromechanical Equipment Assemblers,0.79,0.64,0.62
+0.32,Etchers and Engravers,0.86,0.59,0.8
+0.32,Fast Food and Counter Workers,0.7,0.57,0.58
+0.32,First-Line Supervisors of Food Preparation and Serving Workers,0.87,0.65,0.74
+0.32,Food Scientists and Technologists,0.79,0.49,0.64
+0.32,Forest Fire Inspectors and Prevention Specialists,0.76,0.64,0.79
+0.32,General and Operations Managers,0.75,0.65,0.95
+0.32,Highway Maintenance Workers,0.78,0.63,0.59
+0.32,"Library Assistants, Clerical",0.79,0.68,0.75
+0.32,Materials Engineers,0.78,0.3,0.79
+0.32,Photonics Engineers,0.85,0.35,0.78
+0.32,Prosthodontists,0.99,0.78,0.93
+0.32,Sales Managers,0.68,0.4,0.77
+0.31,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.85,0.72,0.78
+0.31,"Business Teachers, Postsecondary",0.56,0.41,0.93
+0.31,"Control and Valve Installers and Repairers, Except Mechanical Door",0.81,0.57,0.69
+0.31,"Cutters and Trimmers, Hand",0.89,0.4,0.61
+0.31,Desktop Publishers,0.86,0.57,0.76
+0.31,Detectives and Criminal Investigators,0.84,0.57,0.87
+0.31,Emergency Management Directors,0.69,0.44,0.8
+0.31,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.72,0.48,0.79
+0.31,General Internal Medicine Physicians,0.86,0.66,0.86
+0.31,Management Analysts,0.76,0.27,0.81
+0.31,Nurse Anesthetists,0.95,0.79,0.86
+0.31,"Physicians, Pathologists",0.97,0.78,0.84
+0.31,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0.81,0.62,0.55
+0.31,Quality Control Systems Managers,0.93,0.73,0.82
+0.31,Range Managers,0.61,0.46,0.85
+0.31,Real Estate Sales Agents,0.76,0.48,0.93
+0.31,Recycling Coordinators,0.71,0.56,0.93
+0.31,Social and Community Service Managers,0.8,0.61,0.84
+0.31,Social and Human Service Assistants,0.77,0.6,0.77
+0.31,Solar Sales Representatives and Assessors,0.81,0.42,0.91
+0.31,Sound Engineering Technicians,0.83,0.54,0.77
+0.31,Telecommunications Engineering Specialists,0.78,0.47,0.74
+0.31,Urologists,0.99,0.54,0.95
+0.3,Agricultural Technicians,0.89,0.75,0.7
+0.3,"Child, Family, and School Social Workers",0.82,0.54,0.85
+0.3,Cleaners of Vehicles and Equipment,0.69,0.47,0.62
+0.3,Community Health Workers,0.73,0.51,0.77
+0.3,"Cooks, Fast Food",0.73,0.28,0.3
+0.3,Electro-Mechanical and Mechatronics Technologists and Technicians,0.88,0.76,0.57
+0.3,"Explosives Workers, Ordnance Handling Experts, and Blasters",0.88,0.6,0.65
+0.3,Fabric and Apparel Patternmakers,0.93,0.56,0.8
+0.3,Farm Labor Contractors,0.82,0.87,0.99
+0.3,Funeral Attendants,0.77,0.56,0.63
+0.3,Government Property Inspectors and Investigators,0.86,0.58,0.75
+0.3,Industrial Engineering Technologists and Technicians,0.82,0.67,0.79
+0.3,Industrial Machinery Mechanics,0.68,0.49,0.63
+0.3,Licensed Practical and Licensed Vocational Nurses,0.93,0.73,0.74
+0.3,Mechanical Engineers,0.84,0.62,0.9
+0.3,"Medical Scientists, Except Epidemiologists",0.89,0.74,0.79
+0.3,Nuclear Engineers,0.86,0.39,0.59
+0.3,"Opticians, Dispensing",0.94,0.52,0.72
+0.3,"Painting, Coating, and Decorating Workers",0.71,0.36,0.73
+0.3,"Patternmakers, Wood",0.93,0.68,0.79
+0.3,Physical Therapist Aides,0.73,0.48,0.72
+0.3,Podiatrists,0.9,0.47,0.84
+0.3,"Property, Real Estate, and Community Association Managers",0.73,0.48,0.81
+0.3,Railroad Conductors and Yardmasters,0.77,0.67,0.59
+0.3,Remote Sensing Technicians,0.91,0.74,0.62
+0.3,Retail Loss Prevention Specialists,0.83,0.7,0.72
+0.3,Ship Engineers,0.71,0.66,0.89
+0.3,Soil and Plant Scientists,0.73,0.49,0.83
+0.3,"Ushers, Lobby Attendants, and Ticket Takers",0.69,0.48,0.42
+0.3,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.76,0.36,0.56
+0.29,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.88,0.79,0.84
+0.29,Administrative Services Managers,0.79,0.59,0.76
+0.29,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.86,0.66,0.71
+0.29,Allergists and Immunologists,0.96,0.63,0.88
+0.29,Athletic Trainers,0.83,0.66,0.76
+0.29,Audiologists,0.91,0.35,0.8
+0.29,Automotive Engineers,0.84,0.48,0.79
+0.29,Business Intelligence Analysts,0.81,0.56,0.86
+0.29,"Compensation, Benefits, and Job Analysis Specialists",0.88,0.75,0.89
+0.29,Construction and Building Inspectors,0.74,0.48,0.82
+0.29,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.83,0.76,0.77
+0.29,Food Science Technicians,0.9,0.72,0.58
+0.29,Gambling Surveillance Officers and Gambling Investigators,0.96,0.88,0.74
+0.29,Industrial Engineers,0.81,0.54,0.86
+0.29,Information Technology Project Managers,0.74,0.63,0.85
+0.29,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.89,0.66,0.75
+0.29,Logging Equipment Operators,0.7,0.68,0.71
+0.29,Marine Engineers and Naval Architects,0.86,0.46,0.75
+0.29,Materials Scientists,0.81,0.38,0.8
+0.29,Neurodiagnostic Technologists,0.91,0.69,0.71
+0.29,Plasterers and Stucco Masons,0.79,0.33,0.5
+0.29,Rail-Track Laying and Maintenance Equipment Operators,0.73,0.58,0.77
+0.29,Retail Salespersons,0.79,0.63,0.77
+0.29,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.84,0.45,0.93
+0.29,Search Marketing Strategists,0.69,0.46,0.81
+0.29,"Tool Grinders, Filers, and Sharpeners",0.9,0.45,0.69
+0.29,Transportation Inspectors,0.91,0.61,0.88
+0.28,Art Directors,0.87,0.8,0.86
+0.28,Barbers,0.84,0.46,0.81
+0.28,Cabinetmakers and Bench Carpenters,0.78,0.42,0.64
+0.28,Conservation Scientists,0.69,0.35,0.73
+0.28,Counter and Rental Clerks,0.75,0.67,0.65
+0.28,Crane and Tower Operators,0.89,0.49,0.74
+0.28,Driver/Sales Workers,0.8,0.85,0.75
+0.28,"Education and Childcare Administrators, Preschool and Daycare",0.76,0.67,0.86
+0.28,"Electronics Engineers, Except Computer",0.79,0.57,0.82
+0.28,"Environmental Scientists and Specialists, Including Health",0.76,0.57,0.88
+0.28,First-Line Supervisors of Housekeeping and Janitorial Workers,0.75,0.61,0.69
+0.28,First-Line Supervisors of Non-Retail Sales Workers,0.81,0.67,0.8
+0.28,First-Line Supervisors of Police and Detectives,0.84,0.7,0.86
+0.28,Fuel Cell Engineers,0.7,0.3,0.73
+0.28,Gambling Managers,0.85,0.65,0.87
+0.28,Hazardous Materials Removal Workers,0.69,0.54,0.54
+0.28,"Helpers--Installation, Maintenance, and Repair Workers",0.72,0.53,0.68
+0.28,"Judges, Magistrate Judges, and Magistrates",0.94,0.58,0.98
+0.28,Marketing Managers,0.7,0.45,0.91
+0.28,Medical Secretaries and Administrative Assistants,0.88,0.9,0.76
+0.28,Millwrights,0.94,0.62,0.67
+0.28,"Model Makers, Metal and Plastic",1.0,0.67,0.53
+0.28,Molecular and Cellular Biologists,0.84,0.51,0.76
+0.28,"Office Clerks, General",0.9,0.81,0.68
+0.28,"Packers and Packagers, Hand",0.83,0.72,0.59
+0.28,"Patternmakers, Metal and Plastic",0.78,0.51,0.71
+0.28,Psychiatric Technicians,0.84,0.71,0.71
+0.28,"Pump Operators, Except Wellhead Pumpers",0.71,0.75,0.77
+0.28,"Service Unit Operators, Oil and Gas",0.84,0.77,0.74
+0.28,Skincare Specialists,0.72,0.66,0.61
+0.28,"Tailors, Dressmakers, and Custom Sewers",0.88,0.54,0.73
+0.28,Wind Turbine Service Technicians,0.82,0.8,0.67
+0.28,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.85,0.67,0.68
+0.27,Biofuels/Biodiesel Technology and Product Development Managers,0.78,0.47,0.86
+0.27,Cardiovascular Technologists and Technicians,0.92,0.78,0.77
+0.27,Chiropractors,0.93,0.82,0.99
+0.27,Energy Auditors,0.76,0.48,0.64
+0.27,Executive Secretaries and Executive Administrative Assistants,0.88,0.71,0.92
+0.27,Film and Video Editors,0.86,0.44,0.6
+0.27,Financial Quantitative Analysts,0.93,0.53,0.83
+0.27,Fishing and Hunting Workers,0.51,0.48,0.81
+0.27,"Food Servers, Nonrestaurant",0.73,0.67,0.72
+0.27,Human Resources Managers,0.76,0.51,0.93
+0.27,"Laborers and Freight, Stock, and Material Movers, Hand",0.79,0.6,0.66
+0.27,Librarians and Media Collections Specialists,0.71,0.47,0.83
+0.27,Maids and Housekeeping Cleaners,0.66,0.44,0.59
+0.27,Medical Assistants,0.85,0.76,0.67
+0.27,Nuclear Monitoring Technicians,0.9,0.67,0.66
+0.27,"Nursing Instructors and Teachers, Postsecondary",0.92,0.59,0.8
+0.27,"Painters, Construction and Maintenance",0.73,0.31,0.53
+0.27,Parts Salespersons,0.83,0.81,0.82
+0.27,Passenger Attendants,0.61,0.36,0.38
+0.27,Recycling and Reclamation Workers,0.53,0.41,0.65
+0.27,Roofers,0.82,0.47,0.74
+0.27,Spa Managers,0.75,0.59,0.75
+0.27,Subway and Streetcar Operators,0.86,0.75,0.38
+0.27,Team Assemblers,0.92,0.45,0.64
+0.27,Technical Writers,0.89,0.88,0.63
+0.27,Tire Builders,0.63,0.69,0.36
+0.27,Tire Repairers and Changers,0.88,0.62,0.67
+0.27,Training and Development Managers,0.65,0.42,0.83
+0.27,Training and Development Specialists,0.69,0.34,0.75
+0.27,Transportation Engineers,0.79,0.59,0.8
+0.26,Agricultural Equipment Operators,0.68,0.35,0.72
+0.26,"Architects, Except Landscape and Naval",0.74,0.53,0.72
+0.26,Architectural and Engineering Managers,0.75,0.62,0.88
+0.26,Bartenders,0.72,0.52,0.62
+0.26,"Criminal Justice and Law Enforcement Teachers, Postsecondary",0.68,0.51,0.92
+0.26,"Dentists, General",0.95,0.82,0.95
+0.26,Diagnostic Medical Sonographers,0.97,0.92,0.7
+0.26,Electrical and Electronic Engineering Technologists and Technicians,0.85,0.55,0.82
+0.26,Elevator and Escalator Installers and Repairers,0.92,0.58,0.9
+0.26,"Energy Engineers, Except Wind and Solar",0.74,0.43,0.76
+0.26,File Clerks,0.9,0.67,0.69
+0.26,Firefighters,0.79,0.58,0.78
+0.26,First-Line Supervisors of Gambling Services Workers,0.86,0.75,0.66
+0.26,Foresters,0.67,0.49,0.81
+0.26,Gambling Change Persons and Booth Cashiers,0.96,0.87,0.57
+0.26,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.71,0.54,0.7
+0.26,Industrial Production Managers,0.87,0.54,0.89
+0.26,Information Security Analysts,0.77,0.58,0.77
+0.26,Landscape Architects,0.76,0.44,0.72
+0.26,Log Graders and Scalers,0.78,0.67,0.69
+0.26,Medical Equipment Preparers,0.9,0.86,0.7
+0.26,Medical Equipment Repairers,0.8,0.42,0.79
+0.26,"News Analysts, Reporters, and Journalists",0.89,0.51,0.83
+0.26,Nurse Practitioners,0.89,0.62,0.83
+0.26,Paralegals and Legal Assistants,0.87,0.67,0.76
+0.26,Pest Control Workers,0.78,0.61,0.84
+0.26,Special Effects Artists and Animators,0.86,0.45,0.67
+0.26,Statisticians,0.82,0.36,0.74
+0.26,Water Resource Specialists,0.74,0.28,0.79
+0.25,Advertising and Promotions Managers,0.83,0.43,0.81
+0.25,Clergy,0.57,0.3,0.92
+0.25,Construction Managers,0.71,0.49,0.81
+0.25,"Cooks, Institution and Cafeteria",0.73,0.4,0.72
+0.25,Correctional Officers and Jailers,0.85,0.81,0.67
+0.25,Drywall and Ceiling Tile Installers,0.86,0.62,0.74
+0.25,Hearing Aid Specialists,0.8,0.51,0.82
+0.25,Industrial Truck and Tractor Operators,0.91,0.49,0.76
+0.25,Industrial-Organizational Psychologists,0.81,0.4,0.92
+0.25,"Layout Workers, Metal and Plastic",0.92,0.47,0.58
+0.25,Legal Secretaries and Administrative Assistants,0.78,0.84,0.84
+0.25,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.66,0.44,0.67
+0.25,Media Technical Directors/Managers,0.95,0.7,0.79
+0.25,Private Detectives and Investigators,0.94,0.61,0.85
+0.25,Sales Engineers,0.62,0.46,0.76
+0.25,Signal and Track Switch Repairers,0.75,0.52,0.87
+0.25,Surgical Assistants,0.9,0.67,0.78
+0.25,Tapers,0.68,0.35,0.73
+0.25,Veterinary Technologists and Technicians,0.84,0.6,0.71
+0.25,Web Developers,0.81,0.79,0.77
+0.25,Wellhead Pumpers,0.69,0.64,0.9
+0.24,Animal Control Workers,0.81,0.68,0.82
+0.24,Archivists,0.8,0.68,0.78
+0.24,Bioengineers and Biomedical Engineers,0.76,0.4,0.77
+0.24,Chefs and Head Cooks,0.8,0.7,0.67
+0.24,Commercial and Industrial Designers,0.85,0.67,0.69
+0.24,Concierges,0.74,0.54,0.84
+0.24,"Cooks, Restaurant",0.78,0.49,0.6
+0.24,"Education Administrators, Kindergarten through Secondary",0.79,0.5,0.85
+0.24,Environmental Engineering Technologists and Technicians,0.73,0.61,0.69
+0.24,"Environmental Science and Protection Technicians, Including Health",0.83,0.38,0.61
+0.24,Fire Inspectors and Investigators,0.89,0.58,0.9
+0.24,First-Line Supervisors of Retail Sales Workers,0.75,0.65,0.79
+0.24,Geneticists,0.91,0.54,0.81
+0.24,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.82,0.46,0.76
+0.24,Light Truck Drivers,0.71,0.32,0.61
+0.24,Petroleum Engineers,0.71,0.47,0.88
+0.24,"Psychology Teachers, Postsecondary",0.65,0.5,0.92
+0.24,Quality Control Analysts,0.96,0.77,0.81
+0.24,Radio Frequency Identification Device Specialists,0.83,0.54,0.81
+0.24,Riggers,0.86,0.64,0.67
+0.24,Waiters and Waitresses,0.76,0.6,0.48
+0.23,Aircraft Mechanics and Service Technicians,0.88,0.67,0.78
+0.23,Baggage Porters and Bellhops,0.57,0.53,0.71
+0.23,Biostatisticians,0.83,0.43,0.78
+0.23,Cashiers,0.85,0.6,0.54
+0.23,Clinical Research Coordinators,0.89,0.78,0.75
+0.23,Dental Assistants,0.84,0.73,0.61
+0.23,Environmental Engineers,0.63,0.29,0.69
+0.23,Farm and Home Management Educators,0.61,0.31,0.93
+0.23,Fitness and Wellness Coordinators,0.43,0.21,0.86
+0.23,Fundraisers,0.66,0.45,0.85
+0.23,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.79,0.79,0.65
+0.23,Helpers--Carpenters,0.81,0.38,0.75
+0.23,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.73,0.43,0.77
+0.23,Labor Relations Specialists,0.74,0.26,0.83
+0.23,Microsystems Engineers,0.8,0.48,0.86
+0.23,Slaughterers and Meat Packers,0.7,0.52,0.61
+0.23,Timing Device Assemblers and Adjusters,0.65,0.31,0.77
+0.23,Transit and Railroad Police,0.84,0.57,0.79
+0.23,Zoologists and Wildlife Biologists,0.74,0.34,0.88
+0.22,Clinical Nurse Specialists,0.83,0.4,0.88
+0.22,"Coin, Vending, and Amusement Machine Servicers and Repairers",0.76,0.76,0.75
+0.22,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.49,0.26,0.94
+0.22,"Earth Drillers, Except Oil and Gas",0.66,0.41,0.77
+0.22,"Education Administrators, Postsecondary",0.78,0.34,0.92
+0.22,"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.8,0.53,0.74
+0.22,Engine and Other Machine Assemblers,0.87,0.5,0.65
+0.22,First-Line Supervisors of Correctional Officers,0.71,0.66,0.73
+0.22,First-Line Supervisors of Personal Service Workers,0.72,0.59,0.79
+0.22,Geographers,0.64,0.34,0.77
+0.22,Heavy and Tractor-Trailer Truck Drivers,0.74,0.49,0.69
+0.22,Jewelers and Precious Stone and Metal Workers,0.88,0.54,0.76
+0.22,Lawyers,0.9,0.55,0.77
+0.22,Mechanical Drafters,0.93,0.64,0.83
+0.22,Motorboat Operators,0.46,0.51,0.77
+0.22,Photographers,0.71,0.51,0.77
+0.22,Pipelayers,0.9,0.49,0.71
+0.22,Public Relations Specialists,0.8,0.29,0.77
+0.22,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.64,0.57,0.58
+0.22,"Recreation and Fitness Studies Teachers, Postsecondary",0.66,0.44,0.95
+0.22,Reinforcing Iron and Rebar Workers,0.61,0.52,0.62
+0.22,Sewing Machine Operators,0.75,0.4,0.57
+0.22,Surgical Technologists,0.97,0.75,0.78
+0.22,"Tank Car, Truck, and Ship Loaders",0.87,0.86,0.72
+0.22,Validation Engineers,0.91,0.65,0.78
+0.22,Water/Wastewater Engineers,0.72,0.35,0.71
+0.21,Astronomers,0.91,0.3,0.93
+0.21,Audiovisual Equipment Installers and Repairers,0.8,0.38,0.93
+0.21,Cargo and Freight Agents,0.67,0.47,0.84
+0.21,Dancers,0.75,0.68,0.55
+0.21,Electricians,0.83,0.53,0.76
+0.21,Environmental Economists,0.75,0.29,0.94
+0.21,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.59,0.44,0.73
+0.21,Floor Sanders and Finishers,0.84,0.6,0.84
+0.21,Hydrologists,0.8,0.43,0.76
+0.21,Judicial Law Clerks,0.96,0.63,0.72
+0.21,Mechanical Engineering Technologists and Technicians,0.86,0.6,0.7
+0.21,Mechatronics Engineers,0.78,0.32,0.85
+0.21,Mental Health Counselors,0.57,0.5,0.73
+0.21,Occupational Health and Safety Specialists,0.8,0.33,0.79
+0.21,Occupational Health and Safety Technicians,0.85,0.56,0.85
+0.21,Operations Research Analysts,0.84,0.36,0.89
+0.21,Police and Sheriff's Patrol Officers,0.92,0.7,0.74
+0.21,"Rock Splitters, Quarry",0.69,0.35,0.45
+0.21,"Rotary Drill Operators, Oil and Gas",0.9,0.85,0.74
+0.2,Aerospace Engineering and Operations Technologists and Technicians,0.99,0.59,0.67
+0.2,Amusement and Recreation Attendants,0.47,0.52,0.53
+0.2,Biological Technicians,0.85,0.59,0.69
+0.2,"Camera Operators, Television, Video, and Film",0.84,0.64,0.65
+0.2,"Career/Technical Education Teachers, Postsecondary",0.77,0.49,0.83
+0.2,Childcare Workers,0.59,0.33,0.77
+0.2,Clinical and Counseling Psychologists,0.67,0.33,0.94
+0.2,Critical Care Nurses,0.96,0.63,0.75
+0.2,Dental Laboratory Technicians,0.95,0.64,0.7
+0.2,"Economics Teachers, Postsecondary",0.72,0.29,0.92
+0.2,Economists,0.84,0.34,0.94
+0.2,Epidemiologists,0.9,0.47,0.86
+0.2,Home Appliance Repairers,0.81,0.51,0.78
+0.2,Home Health Aides,0.83,0.45,0.66
+0.2,Interior Designers,0.84,0.45,0.82
+0.2,Interpreters and Translators,0.98,0.87,0.61
+0.2,Medical Appliance Technicians,0.85,0.55,0.82
+0.2,"Middle School Teachers, Except Special and Career/Technical Education",0.7,0.42,0.8
+0.2,"Mining and Geological Engineers, Including Mining Safety Engineers",0.77,0.62,0.79
+0.2,Occupational Therapy Assistants,0.71,0.69,0.73
+0.2,"Potters, Manufacturing",0.71,0.72,0.85
+0.2,Producers and Directors,0.76,0.4,0.9
+0.2,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",0.76,0.67,0.64
+0.2,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.81,0.83,0.82
+0.2,Shampooers,0.93,0.39,0.61
+0.2,Telecommunications Line Installers and Repairers,0.85,0.64,0.8
+0.2,Tool and Die Makers,0.95,0.47,0.86
+0.2,Veterinarians,0.89,0.54,0.82
+0.2,"Wholesale and Retail Buyers, Except Farm Products",0.76,0.78,0.88
+0.2,Wind Energy Engineers,0.79,0.41,0.8
+0.19,Automotive Service Technicians and Mechanics,0.86,0.54,0.74
+0.19,Avionics Technicians,0.86,0.47,0.71
+0.19,"Communications Teachers, Postsecondary",0.64,0.31,0.88
+0.19,Editors,0.86,0.76,0.8
+0.19,Electrical and Electronic Equipment Assemblers,0.78,0.49,0.67
+0.19,Fiberglass Laminators and Fabricators,0.69,0.65,0.39
+0.19,Historians,0.81,0.55,0.88
+0.19,Locomotive Engineers,0.87,0.65,0.72
+0.19,Mental Health and Substance Abuse Social Workers,0.67,0.58,0.81
+0.19,Nursing Assistants,0.89,0.62,0.66
+0.19,Orthodontists,0.93,0.75,0.98
+0.19,"Philosophy and Religion Teachers, Postsecondary",0.81,0.41,0.88
+0.19,"Radio, Cellular, and Tower Equipment Installers and Repairers",0.91,0.55,0.87
+0.19,Recreation Workers,0.57,0.61,0.84
+0.19,"Sewers, Hand",0.86,0.54,0.79
+0.19,"Special Education Teachers, Middle School",0.74,0.44,0.78
+0.19,Transportation Planners,0.69,0.4,0.73
+0.19,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",0.83,0.57,0.75
+0.18,Advertising Sales Agents,0.76,0.42,0.92
+0.18,"Architecture Teachers, Postsecondary",0.67,0.24,0.88
+0.18,Bioinformatics Scientists,0.86,0.5,0.94
+0.18,"Captains, Mates, and Pilots of Water Vessels",0.82,0.65,0.83
+0.18,Compliance Managers,0.91,0.71,0.83
+0.18,Dental Hygienists,0.85,0.83,0.78
+0.18,Dietitians and Nutritionists,0.75,0.38,0.8
+0.18,Embalmers,0.89,0.64,0.83
+0.18,"Excavating and Loading Machine and Dragline Operators, Surface Mining",0.7,0.57,0.73
+0.18,First-Line Supervisors of Firefighting and Prevention Workers,0.73,0.5,0.8
+0.18,Floral Designers,0.53,0.43,0.9
+0.18,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.75,0.5,0.75
+0.18,Hospitalists,0.89,0.48,0.79
+0.18,Human Factors Engineers and Ergonomists,0.73,0.48,0.81
+0.18,Locksmiths and Safe Repairers,0.87,0.62,0.74
+0.18,Neurologists,1.0,0.53,0.96
+0.18,Obstetricians and Gynecologists,0.98,0.47,0.92
+0.18,"Ophthalmologists, Except Pediatric",0.98,0.59,0.91
+0.18,Oral and Maxillofacial Surgeons,0.96,0.57,0.9
+0.18,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.8,0.54,0.7
+0.18,Psychiatric Aides,0.7,0.67,0.67
+0.18,"Refractory Materials Repairers, Except Brickmasons",0.68,0.52,0.47
+0.18,Regulatory Affairs Specialists,0.79,0.58,0.73
+0.18,Rehabilitation Counselors,0.73,0.62,0.77
+0.18,Set and Exhibit Designers,0.74,0.33,0.8
+0.18,Solar Energy Systems Engineers,0.73,0.29,0.69
+0.18,Talent Directors,0.56,0.33,0.89
+0.18,"Welders, Cutters, Solderers, and Brazers",0.83,0.52,0.61
+0.17,"Agents and Business Managers of Artists, Performers, and Athletes",0.86,0.47,0.86
+0.17,Audio and Video Technicians,0.89,0.78,0.73
+0.17,Automotive and Watercraft Service Attendants,0.87,0.42,0.69
+0.17,Biologists,0.86,0.38,0.93
+0.17,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.72,0.46,0.4
+0.17,Dermatologists,0.93,0.37,0.94
+0.17,"Derrick Operators, Oil and Gas",0.73,0.79,0.73
+0.17,Dining Room and Cafeteria Attendants and Bartender Helpers,0.72,0.31,0.54
+0.17,Healthcare Social Workers,0.47,0.32,0.81
+0.17,"Insulation Workers, Floor, Ceiling, and Wall",0.62,0.38,0.62
+0.17,"Kindergarten Teachers, Except Special Education",0.6,0.36,0.71
+0.17,Mechanical Door Repairers,0.73,0.55,0.75
+0.17,"Meeting, Convention, and Event Planners",0.74,0.56,0.93
+0.17,Physical Medicine and Rehabilitation Physicians,0.95,0.53,0.96
+0.17,"Plumbers, Pipefitters, and Steamfitters",0.8,0.5,0.78
+0.17,Regulatory Affairs Managers,0.89,0.55,0.73
+0.17,School Psychologists,0.78,0.35,0.87
+0.17,Solar Energy Installation Managers,0.81,0.61,0.72
+0.17,Solar Thermal Installers and Technicians,0.8,0.4,0.81
+0.17,Speech-Language Pathologists,0.71,0.31,0.86
+0.17,"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.79,0.72,0.69
+0.17,Veterinary Assistants and Laboratory Animal Caretakers,0.93,0.75,0.63
+0.17,Weatherization Installers and Technicians,0.65,0.52,0.65
+0.16,Athletes and Sports Competitors,0.69,0.67,0.76
+0.16,Automotive Body and Related Repairers,0.85,0.47,0.74
+0.16,Bailiffs,0.77,0.51,0.58
+0.16,Brownfield Redevelopment Specialists and Site Managers,0.68,0.38,0.75
+0.16,"Coil Winders, Tapers, and Finishers",0.98,0.66,0.68
+0.16,Continuous Mining Machine Operators,0.78,0.55,0.71
+0.16,"Elementary School Teachers, Except Special Education",0.64,0.44,0.75
+0.16,"English Language and Literature Teachers, Postsecondary",0.68,0.41,0.92
+0.16,"Environmental Science Teachers, Postsecondary",0.78,0.33,0.9
+0.16,Exercise Physiologists,0.72,0.49,0.81
+0.16,"Geoscientists, Except Hydrologists and Geographers",0.69,0.48,0.78
+0.16,Graphic Designers,0.86,0.61,0.78
+0.16,"Locker Room, Coatroom, and Dressing Room Attendants",0.56,0.45,0.66
+0.16,"Mathematical Science Teachers, Postsecondary",0.74,0.38,0.74
+0.16,Naturopathic Physicians,0.85,0.41,0.87
+0.16,Nurse Midwives,0.87,0.52,0.78
+0.16,Orthotists and Prosthetists,0.79,0.51,0.78
+0.16,Paperhangers,0.73,0.5,0.77
+0.16,Personal Care Aides,0.8,0.55,0.76
+0.16,Preventive Medicine Physicians,0.78,0.26,0.89
+0.16,Psychiatrists,0.73,0.35,0.85
+0.16,"Roof Bolters, Mining",0.72,0.69,0.46
+0.16,Social Science Research Assistants,0.75,0.71,0.72
+0.16,"Special Education Teachers, Secondary School",0.71,0.33,0.8
+0.15,"Anthropology and Archeology Teachers, Postsecondary",0.83,0.44,0.89
+0.15,Brickmasons and Blockmasons,0.78,0.4,0.75
+0.15,Carpenters,0.83,0.48,0.78
+0.15,Coroners,0.89,0.6,0.74
+0.15,Electrical Engineers,0.82,0.46,0.77
+0.15,"Electronic Equipment Installers and Repairers, Motor Vehicles",0.93,0.62,0.73
+0.15,Environmental Compliance Inspectors,0.75,0.58,0.75
+0.15,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.78,0.41,0.85
+0.15,First-Line Supervisors of Construction Trades and Extraction Workers,0.82,0.43,0.91
+0.15,"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.8,0.32,0.81
+0.15,Forensic Science Technicians,0.94,0.61,0.88
+0.15,"Hairdressers, Hairstylists, and Cosmetologists",0.82,0.65,0.93
+0.15,Industrial Ecologists,0.77,0.39,0.85
+0.15,"Model Makers, Wood",0.95,0.33,0.8
+0.15,Park Naturalists,0.69,0.52,0.83
+0.15,Pile Driver Operators,0.8,0.52,0.63
+0.15,Recreational Therapists,0.53,0.34,0.9
+0.15,Security Guards,0.85,0.72,0.66
+0.15,Sociologists,0.68,0.36,0.96
+0.14,Acupuncturists,0.79,0.7,0.84
+0.14,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.72,0.43,0.84
+0.14,Aerospace Engineers,0.75,0.34,0.77
+0.14,Chief Sustainability Officers,0.63,0.2,0.86
+0.14,Commercial Divers,0.82,0.6,0.76
+0.14,"Computer Science Teachers, Postsecondary",0.72,0.34,0.91
+0.14,Fashion Designers,0.78,0.3,0.93
+0.14,Funeral Home Managers,0.78,0.5,0.88
+0.14,Genetic Counselors,0.86,0.39,0.74
+0.14,"Geography Teachers, Postsecondary",0.75,0.33,0.92
+0.14,Health Education Specialists,0.7,0.64,0.79
+0.14,"Health Specialties Teachers, Postsecondary",0.71,0.29,0.91
+0.14,Motorboat Mechanics and Service Technicians,0.73,0.35,0.71
+0.14,"Pediatricians, General",0.92,0.42,0.89
+0.14,Physician Assistants,0.95,0.54,0.83
+0.14,Physicists,0.7,0.27,0.88
+0.14,"Physics Teachers, Postsecondary",0.64,0.32,0.96
+0.14,"Preschool Teachers, Except Special Education",0.59,0.25,0.65
+0.14,Residential Advisors,0.63,0.56,0.77
+0.14,Septic Tank Servicers and Sewer Pipe Cleaners,0.6,0.49,0.69
+0.14,"Social Work Teachers, Postsecondary",0.59,0.28,0.91
+0.14,"Special Education Teachers, Preschool",0.54,0.35,0.66
+0.14,Stonemasons,0.66,0.32,0.75
+0.14,Substance Abuse and Behavioral Disorder Counselors,0.7,0.78,0.73
+0.14,Wind Energy Development Managers,0.65,0.32,0.92
+0.13,Advanced Practice Psychiatric Nurses,0.82,0.55,0.85
+0.13,"Agricultural Sciences Teachers, Postsecondary",0.79,0.39,0.99
+0.13,Anesthesiologist Assistants,0.96,0.72,0.86
+0.13,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0.71,0.53,0.92
+0.13,"Chemistry Teachers, Postsecondary",0.85,0.53,0.93
+0.13,Costume Attendants,0.77,0.55,0.79
+0.13,"Directors, Religious Activities and Education",0.54,0.22,0.92
+0.13,"Education Teachers, Postsecondary",0.83,0.6,0.93
+0.13,"Electric Motor, Power Tool, and Related Repairers",0.88,0.56,0.73
+0.13,Forest and Conservation Workers,0.66,0.51,0.8
+0.13,Helpers--Extraction Workers,0.74,0.53,0.76
+0.13,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0.57,0.51,0.6
+0.13,"Law Teachers, Postsecondary",0.78,0.21,0.98
+0.13,Mathematicians,0.92,0.38,0.88
+0.13,Natural Sciences Managers,0.86,0.49,0.85
+0.13,"Poets, Lyricists and Creative Writers",0.65,0.58,0.95
+0.13,Sailors and Marine Oilers,0.83,0.61,0.67
+0.13,Shoe Machine Operators and Tenders,0.68,0.77,0.38
+0.13,Sustainability Specialists,0.64,0.32,0.79
+0.13,Terrazzo Workers and Finishers,0.83,0.44,0.58
+0.13,Tutors,0.61,0.3,0.78
+0.12,"Educational, Guidance, and Career Counselors and Advisors",0.48,0.35,0.82
+0.12,Electrical Power-Line Installers and Repairers,0.89,0.45,0.74
+0.12,Fallers,0.78,0.38,0.9
+0.12,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.86,0.72,0.88
+0.12,"Insulation Workers, Mechanical",0.65,0.45,0.78
+0.12,Merchandise Displayers and Window Trimmers,0.56,0.46,0.68
+0.12,"Mobile Heavy Equipment Mechanics, Except Engines",0.84,0.63,0.69
+0.12,Musical Instrument Repairers and Tuners,0.94,0.67,0.83
+0.12,Occupational Therapy Aides,0.71,0.53,0.66
+0.12,Orthoptists,0.89,0.59,0.75
+0.12,Solar Photovoltaic Installers,0.77,0.44,0.53
+0.12,Video Game Designers,0.6,0.43,0.79
+0.12,Writers and Authors,0.79,0.48,0.83
+0.11,Climate Change Policy Analysts,0.71,0.28,0.77
+0.11,Coaches and Scouts,0.66,0.34,0.79
+0.11,"Cooks, Private Household",0.73,0.46,0.9
+0.11,Crossing Guards and Flaggers,0.73,0.27,0.69
+0.11,Demonstrators and Product Promoters,0.59,0.48,0.66
+0.11,Exercise Trainers and Group Fitness Instructors,0.5,0.47,0.78
+0.11,Gambling Dealers,0.91,0.68,0.39
+0.11,"Morticians, Undertakers, and Funeral Arrangers",0.96,0.54,0.92
+0.11,Museum Technicians and Conservators,0.83,0.56,0.84
+0.11,Physical Therapist Assistants,0.59,0.55,0.87
+0.11,Rail Car Repairers,0.71,0.45,0.68
+0.11,Security and Fire Alarm Systems Installers,0.83,0.51,0.85
+0.11,Speech-Language Pathology Assistants,0.69,0.33,0.67
+0.11,Sports Medicine Physicians,1.0,0.53,0.94
+0.11,Tour Guides and Escorts,0.71,0.27,0.73
+0.11,Tree Trimmers and Pruners,0.71,0.51,0.84
+0.11,"Umpires, Referees, and Other Sports Officials",0.74,0.41,0.47
+0.1,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",0.64,0.19,0.89
+0.1,Bus and Truck Mechanics and Diesel Engine Specialists,0.56,0.36,0.79
+0.1,Craft Artists,0.8,0.57,0.76
+0.1,Curators,0.77,0.38,0.92
+0.1,Environmental Restoration Planners,0.52,0.25,0.85
+0.1,Fire-Prevention and Protection Engineers,0.79,0.44,0.76
+0.1,"Forestry and Conservation Science Teachers, Postsecondary",0.68,0.29,0.9
+0.1,Glaziers,0.86,0.48,0.75
+0.1,Helpers--Electricians,0.89,0.6,0.47
+0.1,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.63,0.45,0.42
+0.1,"History Teachers, Postsecondary",0.82,0.55,0.98
+0.1,"Library Science Teachers, Postsecondary",0.65,0.24,0.99
+0.1,Marriage and Family Therapists,0.56,0.24,0.84
+0.1,"Secondary School Teachers, Except Special and Career/Technical Education",0.65,0.37,0.84
+0.1,Self-Enrichment Teachers,0.64,0.48,0.84
+0.1,"Sociology Teachers, Postsecondary",0.69,0.54,0.95
+0.1,Structural Iron and Steel Workers,0.78,0.38,0.64
+0.1,Structural Metal Fabricators and Fitters,0.85,0.55,0.86
+0.1,Urban and Regional Planners,0.57,0.16,0.78
+0.09,Actors,0.79,0.4,0.47
+0.09,Animal Trainers,0.61,0.39,0.88
+0.09,"Biological Science Teachers, Postsecondary",0.81,0.32,0.93
+0.09,"Foreign Language and Literature Teachers, Postsecondary",0.57,0.11,0.86
+0.09,Furniture Finishers,0.81,0.27,0.51
+0.09,Music Directors and Composers,0.88,0.67,0.92
+0.09,Nannies,0.45,0.23,0.79
+0.09,Outdoor Power Equipment and Other Small Engine Mechanics,0.69,0.52,0.68
+0.09,Political Scientists,0.76,0.34,0.98
+0.08,Animal Breeders,0.59,0.33,0.94
+0.08,"Arbitrators, Mediators, and Conciliators",0.91,0.24,0.9
+0.08,Art Therapists,0.52,0.35,0.86
+0.08,"Career/Technical Education Teachers, Middle School",0.68,0.45,0.82
+0.08,"Career/Technical Education Teachers, Secondary School",0.68,0.45,0.83
+0.08,Construction Laborers,0.68,0.41,0.55
+0.08,"Engineering Teachers, Postsecondary",0.63,0.31,0.91
+0.08,Farm Equipment Mechanics and Service Technicians,0.88,0.5,0.75
+0.08,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",0.58,0.26,0.93
+0.08,Massage Therapists,0.51,0.56,0.9
+0.08,Models,0.44,0.39,0.42
+0.08,Operating Engineers and Other Construction Equipment Operators,0.73,0.35,0.79
+0.08,Physical Therapists,0.67,0.69,0.85
+0.08,"Teaching Assistants, Postsecondary",0.67,0.39,0.8
+0.07,Shoe and Leather Workers and Repairers,0.85,0.44,0.79
+0.06,Anthropologists and Archeologists,0.77,0.42,0.81
+0.06,"Art, Drama, and Music Teachers, Postsecondary",0.62,0.35,0.85
+0.06,Midwives,0.85,0.44,0.78
+0.05,Adapted Physical Education Specialists,0.46,0.3,0.88
+0.05,Camera and Photographic Equipment Repairers,0.91,0.49,0.85
+0.05,Carpet Installers,0.74,0.38,0.8
+0.05,Instructional Coordinators,0.57,0.42,0.78
+0.05,Music Therapists,0.45,0.41,0.85
+0.05,"Political Science Teachers, Postsecondary",0.7,0.25,0.93
+0.05,Recreational Vehicle Service Technicians,0.78,0.48,0.62
+0.05,Upholsterers,0.83,0.3,0.66
+0.04,Choreographers,0.58,0.61,0.73
+0.04,Musicians and Singers,0.88,0.64,0.43
+0.04,Occupational Therapists,0.64,0.42,0.88
+0.04,Tile and Stone Setters,0.77,0.48,0.69
+0.03,Animal Caretakers,0.63,0.54,0.7
+0.03,Bicycle Repairers,0.87,0.31,0.87
+0.02,Automotive Glass Installers and Repairers,0.78,0.54,0.52
+0.02,"Makeup Artists, Theatrical and Performance",0.77,0.35,0.77
+0.02,Manicurists and Pedicurists,0.7,0.21,0.62
+0.02,Motorcycle Mechanics,0.93,0.7,0.82
+0.01,Manufactured Building and Mobile Home Installers,0.83,0.41,0.81
+0.01,Watch and Clock Repairers,0.97,0.38,0.92
